@@ -3,3 +3,4 @@ youtube.com
 hola.com
 edu.bo.com
 prueba.com
+prueba2.com
